@@ -1,0 +1,10 @@
+Przykładowy tekst CTRL+0
+Przykładowy tekst CTRL+1
+Przykładowy tekst CTRL+2
+Przykładowy tekst CTRL+3
+Przykładowy tekst CTRL+4
+Przykładowy tekst CTRL+5
+Przykładowy tekst CTRL+6
+Przykładowy tekst CTRL+7
+Przykładowy tekst CTRL+8
+Przykładowy tekst CTRL+9
